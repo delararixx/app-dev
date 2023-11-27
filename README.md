@@ -3,7 +3,7 @@ My name is Jeorge Trixie E. De Lara and I live in Lucban, Quezon. I'm a 4th year
 
 
 #My Goals in Life
--[] Find a job.
+- Find a job.
 -[] Travel the world.
 -[] Treat my family and friends.
 -[] Improve my skills and abilities.
